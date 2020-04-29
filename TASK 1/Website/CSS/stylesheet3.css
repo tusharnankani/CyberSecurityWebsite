@@ -1,0 +1,25 @@
+body{
+	color: white;
+	background-color: black;
+}
+a{
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: black;
+	background-color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#list{
+	font-size: 24px;
+}
+
+#logo{
+	font-size: 15px;
+}
